@@ -1,0 +1,24 @@
+Sub úhel3()
+' pro úhly v obdélníku
+' Makro přidá značku úhlu
+' Makro zaznamenáno 29.04.99, zaznamenal Solovský Rostislav
+'
+    Selection.WholeStory
+    b = Len(Selection.Text)
+    Selection.HomeKey Unit:=wdStory
+    For i = 1 To b - 1
+        
+        Rem označím znak, který je na řadě
+        Selection.MoveRight Unit:=wdCharacter, Count:=1, Extend:=wdExtend
+        If Selection.Text = "*" Then
+            ' našel značku, zaměním
+            Selection.InsertSymbol Font:="Lucida Sans Unicode", CharacterNumber:=8738, _
+            Unicode:=True
+        Else
+            ' posunu na další znak
+            Selection.MoveRight Unit:=wdCharacter, Count:=1
+        End If
+        
+        
+    Next i
+End Sub

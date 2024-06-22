@@ -1,0 +1,12 @@
+C:\programování NET\zlomky2024\zlomky2024\bin\Debug\zlomky2024.exe.config
+C:\programování NET\zlomky2024\zlomky2024\bin\Debug\zlomky2024.exe
+C:\programování NET\zlomky2024\zlomky2024\bin\Debug\zlomky2024.pdb
+C:\programování NET\zlomky2024\zlomky2024\bin\Debug\zlomky2024.xml
+C:\programování NET\zlomky2024\zlomky2024\obj\Debug\zlomky2024.vbproj.AssemblyReference.cache
+C:\programování NET\zlomky2024\zlomky2024\obj\Debug\zlomky2024.Form1.resources
+C:\programování NET\zlomky2024\zlomky2024\obj\Debug\zlomky2024.Resources.resources
+C:\programování NET\zlomky2024\zlomky2024\obj\Debug\zlomky2024.vbproj.GenerateResource.cache
+C:\programování NET\zlomky2024\zlomky2024\obj\Debug\zlomky2024.vbproj.CoreCompileInputs.cache
+C:\programování NET\zlomky2024\zlomky2024\obj\Debug\zlomky2024.exe
+C:\programování NET\zlomky2024\zlomky2024\obj\Debug\zlomky2024.xml
+C:\programování NET\zlomky2024\zlomky2024\obj\Debug\zlomky2024.pdb

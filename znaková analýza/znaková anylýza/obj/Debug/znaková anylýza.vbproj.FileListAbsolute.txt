@@ -1,0 +1,12 @@
+C:\programování NET\znaková analýza\znaková anylýza\bin\Debug\znaková anylýza.exe.config
+C:\programování NET\znaková analýza\znaková anylýza\bin\Debug\znaková anylýza.exe
+C:\programování NET\znaková analýza\znaková anylýza\bin\Debug\znaková anylýza.pdb
+C:\programování NET\znaková analýza\znaková anylýza\bin\Debug\znaková anylýza.xml
+C:\programování NET\znaková analýza\znaková anylýza\obj\Debug\znaková anylýza.vbproj.AssemblyReference.cache
+C:\programování NET\znaková analýza\znaková anylýza\obj\Debug\znaková_anylýza.Form1.resources
+C:\programování NET\znaková analýza\znaková anylýza\obj\Debug\znaková_anylýza.Resources.resources
+C:\programování NET\znaková analýza\znaková anylýza\obj\Debug\znaková anylýza.vbproj.GenerateResource.cache
+C:\programování NET\znaková analýza\znaková anylýza\obj\Debug\znaková anylýza.vbproj.CoreCompileInputs.cache
+C:\programování NET\znaková analýza\znaková anylýza\obj\Debug\znaková anylýza.exe
+C:\programování NET\znaková analýza\znaková anylýza\obj\Debug\znaková anylýza.xml
+C:\programování NET\znaková analýza\znaková anylýza\obj\Debug\znaková anylýza.pdb

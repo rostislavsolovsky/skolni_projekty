@@ -1,0 +1,12 @@
+C:\programování NET\pprocenta\procenta lehká\procenta lehká\bin\Debug\procenta lehká.exe.config
+C:\programování NET\pprocenta\procenta lehká\procenta lehká\bin\Debug\procenta lehká.exe
+C:\programování NET\pprocenta\procenta lehká\procenta lehká\bin\Debug\procenta lehká.pdb
+C:\programování NET\pprocenta\procenta lehká\procenta lehká\bin\Debug\procenta lehká.xml
+C:\programování NET\pprocenta\procenta lehká\procenta lehká\obj\Debug\procenta lehká.vbprojAssemblyReference.cache
+C:\programování NET\pprocenta\procenta lehká\procenta lehká\obj\Debug\procenta_lehká.Form1.resources
+C:\programování NET\pprocenta\procenta lehká\procenta lehká\obj\Debug\procenta_lehká.Resources.resources
+C:\programování NET\pprocenta\procenta lehká\procenta lehká\obj\Debug\procenta lehká.vbproj.GenerateResource.cache
+C:\programování NET\pprocenta\procenta lehká\procenta lehká\obj\Debug\procenta lehká.vbproj.CoreCompileInputs.cache
+C:\programování NET\pprocenta\procenta lehká\procenta lehká\obj\Debug\procenta lehká.exe
+C:\programování NET\pprocenta\procenta lehká\procenta lehká\obj\Debug\procenta lehká.xml
+C:\programování NET\pprocenta\procenta lehká\procenta lehká\obj\Debug\procenta lehká.pdb

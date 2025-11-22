@@ -1,0 +1,12 @@
+C:\programování NET\pprocenta\procentove domino\procentove domino\bin\Debug\procentove domino.exe.config
+C:\programování NET\pprocenta\procentove domino\procentove domino\bin\Debug\procentove domino.exe
+C:\programování NET\pprocenta\procentove domino\procentove domino\bin\Debug\procentove domino.pdb
+C:\programování NET\pprocenta\procentove domino\procentove domino\bin\Debug\procentove domino.xml
+C:\programování NET\pprocenta\procentove domino\procentove domino\obj\Debug\procentove domino.vbprojAssemblyReference.cache
+C:\programování NET\pprocenta\procentove domino\procentove domino\obj\Debug\procentove_domino.Form1.resources
+C:\programování NET\pprocenta\procentove domino\procentove domino\obj\Debug\procentove_domino.Resources.resources
+C:\programování NET\pprocenta\procentove domino\procentove domino\obj\Debug\procentove domino.vbproj.GenerateResource.cache
+C:\programování NET\pprocenta\procentove domino\procentove domino\obj\Debug\procentove domino.vbproj.CoreCompileInputs.cache
+C:\programování NET\pprocenta\procentove domino\procentove domino\obj\Debug\procentove domino.exe
+C:\programování NET\pprocenta\procentove domino\procentove domino\obj\Debug\procentove domino.xml
+C:\programování NET\pprocenta\procentove domino\procentove domino\obj\Debug\procentove domino.pdb

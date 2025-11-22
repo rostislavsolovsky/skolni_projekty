@@ -1,0 +1,12 @@
+C:\programování NET\pprocenta\procenta nakupy\procenta nakupy\bin\Debug\procenta nakupy.exe.config
+C:\programování NET\pprocenta\procenta nakupy\procenta nakupy\bin\Debug\procenta nakupy.exe
+C:\programování NET\pprocenta\procenta nakupy\procenta nakupy\bin\Debug\procenta nakupy.pdb
+C:\programování NET\pprocenta\procenta nakupy\procenta nakupy\bin\Debug\procenta nakupy.xml
+C:\programování NET\pprocenta\procenta nakupy\procenta nakupy\obj\Debug\procenta_nakupy.Form1.resources
+C:\programování NET\pprocenta\procenta nakupy\procenta nakupy\obj\Debug\procenta_nakupy.Resources.resources
+C:\programování NET\pprocenta\procenta nakupy\procenta nakupy\obj\Debug\procenta nakupy.vbproj.GenerateResource.cache
+C:\programování NET\pprocenta\procenta nakupy\procenta nakupy\obj\Debug\procenta nakupy.vbproj.CoreCompileInputs.cache
+C:\programování NET\pprocenta\procenta nakupy\procenta nakupy\obj\Debug\procenta nakupy.exe
+C:\programování NET\pprocenta\procenta nakupy\procenta nakupy\obj\Debug\procenta nakupy.xml
+C:\programování NET\pprocenta\procenta nakupy\procenta nakupy\obj\Debug\procenta nakupy.pdb
+C:\programování NET\pprocenta\procenta nakupy\procenta nakupy\obj\Debug\procenta nakupy.vbproj.AssemblyReference.cache

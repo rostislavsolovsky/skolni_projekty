@@ -1,0 +1,2 @@
+Tohle je záložní sada pro Sportovce
+v této složce je vše, co bude uživatel potřebovat
